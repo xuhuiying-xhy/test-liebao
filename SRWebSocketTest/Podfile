@@ -1,0 +1,15 @@
+platform :ios, '9.0'
+target 'SRWebSocketTest' do
+
+#pod 'MJRefresh'
+#pod 'AFNetworking'
+#pod 'YTKNetwork'
+#pod 'SDWebImage'
+#pod 'TTTAttributedLabel'
+#pod 'SAMKeychain'
+#pod 'MJExtension'
+#pod 'Masonry'
+#pod 'PINCache'
+pod 'SocketRocket'
+
+end
